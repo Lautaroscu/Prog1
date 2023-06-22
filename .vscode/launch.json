@@ -1,0 +1,586 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "modeloExamen2023",
+      "request": "launch",
+      "mainClass": "clase52023.modeloExamen2023",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "act20",
+      "request": "launch",
+      "mainClass": "clase52023.act20",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "act19",
+      "request": "launch",
+      "mainClass": "clase52023.act19",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio17",
+      "request": "launch",
+      "mainClass": "ejercicio17",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "ParcialdeMrdTema1",
+      "request": "launch",
+      "mainClass": "ParcialdeMrdTema1",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "intercambiarMayoresSec",
+      "request": "launch",
+      "mainClass": "repaso.intercambiarMayoresSec",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Clase7_ej3",
+      "request": "launch",
+      "mainClass": "Clase7_ej3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "RecuperatorioTema22022",
+      "request": "launch",
+      "mainClass": "RecuperatorioTema22022",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase4",
+      "request": "launch",
+      "mainClass": "clase4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase4_parte2",
+      "request": "launch",
+      "mainClass": "clase4_parte2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase4_parte2ej2",
+      "request": "launch",
+      "mainClass": "clase4_parte2ej2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase4_partmeses",
+      "request": "launch",
+      "mainClass": "clase4_partmeses",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase4ejercicio4",
+      "request": "launch",
+      "mainClass": "clase4ejercicio4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5__ej5",
+      "request": "launch",
+      "mainClass": "clase5__ej5",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5_ej2",
+      "request": "launch",
+      "mainClass": "clase5_ej2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5_ej3",
+      "request": "launch",
+      "mainClass": "clase5_ej3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5_ej4",
+      "request": "launch",
+      "mainClass": "clase5_ej4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5_ejercicio6",
+      "request": "launch",
+      "mainClass": "clase5_ejercicio6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5_tpprimerap",
+      "request": "launch",
+      "mainClass": "clase5_tpprimerap",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase5ej7",
+      "request": "launch",
+      "mainClass": "clase5ej7",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ej1",
+      "request": "launch",
+      "mainClass": "clase6_ej1",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejemplo5",
+      "request": "launch",
+      "mainClass": "clase6_ejemplo5",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejemplo6",
+      "request": "launch",
+      "mainClass": "clase6_ejemplo6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejemplo7",
+      "request": "launch",
+      "mainClass": "clase6_ejemplo7",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejemplo8",
+      "request": "launch",
+      "mainClass": "clase6_ejemplo8",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejemplo9",
+      "request": "launch",
+      "mainClass": "clase6_ejemplo9",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio10",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio10",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio3",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio4",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio6",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio7",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio7",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio8",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio8",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejercicio9",
+      "request": "launch",
+      "mainClass": "clase6_ejercicio9",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase6_ejpromedio",
+      "request": "launch",
+      "mainClass": "clase6_ejpromedio",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejemplo1",
+      "request": "launch",
+      "mainClass": "clase7_ejemplo1",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejemplo4",
+      "request": "launch",
+      "mainClass": "clase7_ejemplo4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejemplo5",
+      "request": "launch",
+      "mainClass": "clase7_ejemplo5",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejemplo6",
+      "request": "launch",
+      "mainClass": "clase7_ejemplo6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio1",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio1",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio10",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio10",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio11",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio11",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio12",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio12",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio17",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio17",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio2",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio3",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio4",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio4",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio5",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio5",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio6",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio8",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio8",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ejercicio9",
+      "request": "launch",
+      "mainClass": "clase7_ejercicio9",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase7_ordenarmientoseleccion",
+      "request": "launch",
+      "mainClass": "clase7_ordenarmientoseleccion",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer11",
+      "request": "launch",
+      "mainClass": "clase8_ejer11",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer12",
+      "request": "launch",
+      "mainClass": "clase8_ejer12",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer14",
+      "request": "launch",
+      "mainClass": "clase8_ejer14",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer17",
+      "request": "launch",
+      "mainClass": "clase8_ejer17",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer5",
+      "request": "launch",
+      "mainClass": "clase8_ejer5",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer6",
+      "request": "launch",
+      "mainClass": "clase8_ejer6",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejer9",
+      "request": "launch",
+      "mainClass": "clase8_ejer9",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejercicio1",
+      "request": "launch",
+      "mainClass": "clase8_ejercicio1",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejercicio13",
+      "request": "launch",
+      "mainClass": "clase8_ejercicio13",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejercicio15",
+      "request": "launch",
+      "mainClass": "clase8_ejercicio15",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "clase8_ejercicio2",
+      "request": "launch",
+      "mainClass": "clase8_ejercicio2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "ej10",
+      "request": "launch",
+      "mainClass": "ej10",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio2",
+      "request": "launch",
+      "mainClass": "ejercicio2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_regular",
+      "request": "launch",
+      "mainClass": "final_regular",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_regular_2",
+      "request": "launch",
+      "mainClass": "final_regular_2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "nose",
+      "request": "launch",
+      "mainClass": "nose",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "nosex2",
+      "request": "launch",
+      "mainClass": "nosex2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "nosex3",
+      "request": "launch",
+      "mainClass": "nosex3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "parcialviejo",
+      "request": "launch",
+      "mainClass": "parcialviejo",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "persona",
+      "request": "launch",
+      "mainClass": "persona",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "practica",
+      "request": "launch",
+      "mainClass": "practica",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_2022",
+      "request": "launch",
+      "mainClass": "repaso.final_2022",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_dic22",
+      "request": "launch",
+      "mainClass": "repaso.final_dic22",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_ejemplo2",
+      "request": "launch",
+      "mainClass": "repaso.final_ejemplo2",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "final_ejemplo3",
+      "request": "launch",
+      "mainClass": "repaso.final_ejemplo3",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "isPalindrome",
+      "request": "launch",
+      "mainClass": "repaso.isPalindrome",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "mayoresSec",
+      "request": "launch",
+      "mainClass": "repaso.mayoresSec",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "selectivas",
+      "request": "launch",
+      "mainClass": "selectivas",
+      "projectName": "Programacion1_6d098ee"
+    },
+    {
+      "type": "java",
+      "name": "tablamultiplicar",
+      "request": "launch",
+      "mainClass": "tablamultiplicar",
+      "projectName": "Programacion1_6d098ee"
+    }
+  ]
+}
